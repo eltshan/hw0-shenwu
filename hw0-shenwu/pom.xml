@@ -5,8 +5,8 @@
 	<artifactId>hw0-shenwu</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<scm>
-		<connection>sm:git:git@github.com:eltshan/hw0-shenwu.git</connection>
-		<developerConnection>sm:git:git@github.com:eltshan/hw0-shenwu.git</developerConnection>
+		<connection>scm:git:git@github.com:eltshan/hw0-shenwu.git</connection>
+		<developerConnection>scm:git:git@github.com:eltshan/hw0-shenwu.git</developerConnection>
 	</scm>
 	<repositories>
 		<repository>
